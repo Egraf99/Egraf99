@@ -1,0 +1,3 @@
+- Hi, I’m @Egraf99
+- I’m interested in programing and sport
+- I’m currently learning python
